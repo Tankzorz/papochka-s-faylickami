@@ -8,7 +8,10 @@ function Navbar() {
                 <IconButton edge="start" className="icon" color="inherit" aria-label="menu">
                 </IconButton>
                 <Typography variant="h6" className="title">
-                News
+                АСУВЗ
+                </Typography>
+                <Typography variant="subtitle2" className="title">
+                ALPHA
                 </Typography>
                 <Button color="inherit">Login</Button>
             </Toolbar>
